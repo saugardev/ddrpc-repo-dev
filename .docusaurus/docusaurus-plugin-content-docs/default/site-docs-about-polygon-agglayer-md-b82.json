@@ -1,0 +1,29 @@
+{
+  "id": "about/polygon-agglayer",
+  "title": "Polygon Agglayer",
+  "description": "",
+  "source": "@site/docs/about/polygon-agglayer.md",
+  "sourceDirName": "about",
+  "slug": "/about/polygon-agglayer",
+  "permalink": "/docs/about/polygon-agglayer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/saugardev/decash.link/tree/main/docs/docs/about/polygon-agglayer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "id": "polygon-agglayer",
+    "title": "Polygon Agglayer"
+  },
+  "sidebar": "decashSidebar",
+  "previous": {
+    "title": "Polygon",
+    "permalink": "/docs/about/roadmap"
+  },
+  "next": {
+    "title": "Connect your dApp",
+    "permalink": "/docs/user-guide/create-link"
+  }
+}

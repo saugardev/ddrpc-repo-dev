@@ -1,0 +1,29 @@
+{
+  "id": "about/what-is-decash",
+  "title": "What is decash",
+  "description": "",
+  "source": "@site/docs/about/what-is-decash.md",
+  "sourceDirName": "about",
+  "slug": "/about/what-is-decash",
+  "permalink": "/docs/about/what-is-decash",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/saugardev/decash.link/tree/main/docs/docs/about/what-is-decash.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "what-is-decash",
+    "title": "What is decash"
+  },
+  "sidebar": "decashSidebar",
+  "previous": {
+    "title": "Quick start guide",
+    "permalink": "/docs/getting-started/concepts"
+  },
+  "next": {
+    "title": "Polygon",
+    "permalink": "/docs/about/roadmap"
+  }
+}

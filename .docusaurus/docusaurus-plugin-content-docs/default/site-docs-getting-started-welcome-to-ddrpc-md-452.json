@@ -1,0 +1,24 @@
+{
+  "id": "getting-started/welcome-to-ddrpc",
+  "title": "Welcome to D_D RPC",
+  "description": "The First DAO-Owned RPC Provider",
+  "source": "@site/docs/getting-started/welcome-to-ddrpc.md",
+  "sourceDirName": "getting-started",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/saugardev/decash.link/tree/main/docs/docs/getting-started/welcome-to-ddrpc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "decashSidebar",
+  "next": {
+    "title": "Create an Account",
+    "permalink": "/docs/getting-started/concepts"
+  }
+}

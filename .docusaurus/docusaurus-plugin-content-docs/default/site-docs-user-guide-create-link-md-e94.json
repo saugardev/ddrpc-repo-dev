@@ -1,0 +1,29 @@
+{
+  "id": "user-guide/create-link",
+  "title": "Create Link",
+  "description": "",
+  "source": "@site/docs/user-guide/create-link.md",
+  "sourceDirName": "user-guide",
+  "slug": "/user-guide/create-link",
+  "permalink": "/docs/user-guide/create-link",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/saugardev/decash.link/tree/main/docs/docs/user-guide/create-link.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "create-link",
+    "title": "Create Link"
+  },
+  "sidebar": "decashSidebar",
+  "previous": {
+    "title": "Arbitrum",
+    "permalink": "/docs/about/polygon-agglayer"
+  },
+  "next": {
+    "title": "Discord",
+    "permalink": "/docs/community/discord"
+  }
+}

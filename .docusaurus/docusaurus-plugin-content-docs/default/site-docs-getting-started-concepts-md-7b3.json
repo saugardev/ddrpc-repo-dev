@@ -1,0 +1,29 @@
+{
+  "id": "getting-started/concepts",
+  "title": "Concepts",
+  "description": "",
+  "source": "@site/docs/getting-started/concepts.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/concepts",
+  "permalink": "/docs/getting-started/concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/saugardev/decash.link/tree/main/docs/docs/getting-started/concepts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "id": "concepts",
+    "title": "Concepts"
+  },
+  "sidebar": "decashSidebar",
+  "previous": {
+    "title": "Welcome to DDRPC",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Obtaining API keys",
+    "permalink": "/docs/getting-started/concepts"
+  }
+}

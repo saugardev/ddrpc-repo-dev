@@ -1,0 +1,20 @@
+{
+  "id": "user-guide/claim-link",
+  "title": "Claim link",
+  "description": "",
+  "source": "@site/docs/user-guide/claim-link.md",
+  "sourceDirName": "user-guide",
+  "slug": "/user-guide/claim-link",
+  "permalink": "/docs/user-guide/claim-link",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/saugardev/decash.link/tree/main/docs/docs/user-guide/claim-link.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "id": "claim-link",
+    "title": "Claim link"
+  }
+}

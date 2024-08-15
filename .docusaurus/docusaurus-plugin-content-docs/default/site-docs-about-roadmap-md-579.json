@@ -1,0 +1,29 @@
+{
+  "id": "about/roadmap",
+  "title": "Roadmap",
+  "description": "",
+  "source": "@site/docs/about/roadmap.md",
+  "sourceDirName": "about",
+  "slug": "/about/roadmap",
+  "permalink": "/docs/about/roadmap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/saugardev/decash.link/tree/main/docs/docs/about/roadmap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "id": "roadmap",
+    "title": "Roadmap"
+  },
+  "sidebar": "decashSidebar",
+  "previous": {
+    "title": "Ethereum",
+    "permalink": "/docs/about/what-is-decash"
+  },
+  "next": {
+    "title": "Arbitrum",
+    "permalink": "/docs/about/polygon-agglayer"
+  }
+}

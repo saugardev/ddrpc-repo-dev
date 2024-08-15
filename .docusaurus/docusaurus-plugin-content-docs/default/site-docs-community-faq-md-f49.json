@@ -1,0 +1,25 @@
+{
+  "id": "community/faq",
+  "title": "FAQ",
+  "description": "",
+  "source": "@site/docs/community/faq.md",
+  "sourceDirName": "community",
+  "slug": "/community/faq",
+  "permalink": "/docs/community/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/saugardev/decash.link/tree/main/docs/docs/community/faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "faq",
+    "title": "FAQ"
+  },
+  "sidebar": "decashSidebar",
+  "previous": {
+    "title": "Discord",
+    "permalink": "/docs/community/discord"
+  }
+}

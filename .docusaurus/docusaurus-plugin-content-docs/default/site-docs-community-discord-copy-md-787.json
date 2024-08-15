@@ -1,0 +1,25 @@
+{
+  "id": "community/discord",
+  "title": "Discord Channel",
+  "description": "",
+  "source": "@site/docs/community/discord copy.md",
+  "sourceDirName": "community",
+  "slug": "/community/discord",
+  "permalink": "/docs/community/discord",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/saugardev/decash.link/tree/main/docs/docs/community/discord copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "discord",
+    "title": "Discord Channel"
+  },
+  "sidebar": "decashSidebar",
+  "previous": {
+    "title": "Claim a link",
+    "permalink": "/docs/user-guide/claim-link"
+  }
+}

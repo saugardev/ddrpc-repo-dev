@@ -1,0 +1,72 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started/welcome-to-ddrpc",
+          "docs": [
+            {
+              "id": "about/polygon-agglayer",
+              "path": "/docs/about/polygon-agglayer",
+              "sidebar": "decashSidebar"
+            },
+            {
+              "id": "about/roadmap",
+              "path": "/docs/about/roadmap",
+              "sidebar": "decashSidebar"
+            },
+            {
+              "id": "about/what-is-decash",
+              "path": "/docs/about/what-is-decash",
+              "sidebar": "decashSidebar"
+            },
+            {
+              "id": "community/discord",
+              "path": "/docs/community/discord",
+              "sidebar": "decashSidebar"
+            },
+            {
+              "id": "community/faq",
+              "path": "/docs/community/faq",
+              "sidebar": "decashSidebar"
+            },
+            {
+              "id": "getting-started/concepts",
+              "path": "/docs/getting-started/concepts",
+              "sidebar": "decashSidebar"
+            },
+            {
+              "id": "getting-started/welcome-to-ddrpc",
+              "path": "/docs/",
+              "sidebar": "decashSidebar"
+            },
+            {
+              "id": "user-guide/claim-link",
+              "path": "/docs/user-guide/claim-link"
+            },
+            {
+              "id": "user-guide/create-link",
+              "path": "/docs/user-guide/create-link",
+              "sidebar": "decashSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "decashSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "Welcome to DDRPC"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
